@@ -1,28 +1,24 @@
-#Airline Routes
-___
+# Airline Routes
 
-*The program depends on the "anytree" library*
+***The program depends on the "anytree" library***
 
 To run the program install the anytree package in the environment
-''' bash
-$ pip install anytree
-'''
 
-Code Execution 
-'''
-$ python airlineRoutes.py filename.txt
-'''
+`$ pip install anytree`
 
-File path can also be used 
-'''
-$ python airlineRoutes.py directory/filename.txt
-'''
+## Code Execution
+
+`$ python airlineRoutes.py filename.txt`
+
+## File path can also be used for code running.
+
+`$ python airlineRoutes.py directory/filename.txt`
+
+*\*NOTE : Output files file can be found in the 'OutputFiles' directory.*
 
 
-*Note*: Output files file can be found in the OutputFiles directory
+## OPTIONAL 
 
-OPTIONAL 
 The --all flag can be use to write all routes
-'''
-$ python airlineRoutes.py --all filename.txt
-'''
+
+`$ python airlineRoutes.py --all filename.txt`
