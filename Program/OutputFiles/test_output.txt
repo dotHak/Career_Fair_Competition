@@ -1,0 +1,9 @@
+Optimal route from ACC to LFW
+------------------------------
+1. ET from ACC to LFW 0 stops
+Total flights: 1
+Total additional stops: 0
+Total distance: 169.11 km
+Optimality criteria: flights and distance
+
+

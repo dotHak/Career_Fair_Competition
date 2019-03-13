@@ -1,0 +1,24 @@
+Optimal route from CAH to IXR
+------------------------------
+1. VN from CAH to SGN 0 stops
+2. VN from SGN to RGN 0 stops
+3. AI from RGN to CCU 0 stops
+4. 9W from CCU to IXR 0 stops
+Total flights: 4
+Total additional stops: 0
+Total distance: 2920.11 km
+Optimality criteria: flights and distance
+
+
+Optimal route from CAH to IXR
+------------------------------
+1. VN from CAH to SGN 0 stops
+2. VN from SGN to RGN 0 stops
+3. AI from RGN to CCU 0 stops
+4. 9W from CCU to IXR 0 stops
+Total flights: 4
+Total additional stops: 0
+Total distance: 2920.11 km
+Optimality criteria: flights and distance
+
+
